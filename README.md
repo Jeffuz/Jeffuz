@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffuz&label=Profile%20views&color=0e75b6&style=flat" alt="jeffuz" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 **Currently learning TensorFlow Framework**
+- 🔭 **Currently learning React**
 
-- 🎓 **Studying Computer Engineering, Robotics and Control, and Computer Systems**
+- 🎓 **Studying Computer Engineering**
 
-- 💼 **Interested in Machine Learning and Artificial Intelligence**
+- 💼 **Interested in Full Stack Development and Machine Learning**
 
 - ✍️ **Hobbies include watching anime and gaming (League/Valorant)**
 
