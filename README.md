@@ -6,7 +6,7 @@
 
 - 🎓 **Studying Computer Engineering**
 
-- 💼 **Interested in Full Stack Development and Machine Learning**
+- 💼 **Interested in Full Stack Development**
 
 - ✍️ **Hobbies include watching anime and gaming (League/Valorant)**
 
@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jeffzhang0049" target="blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="https://instagram.com/jeffu_z" target="blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-<a href="https://discord.gg/ugBJQMn6gx" target="blank"><img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" width="50" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
