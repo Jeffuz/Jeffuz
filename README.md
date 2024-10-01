@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hello!+I'm+Jeff+Zhang!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer from the Bay Area</h3>
+<h3 align="center">A passionate Software Engineer from the Bay Area</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  💼 I’m currently learning **Next.js, React.js**
 
- ✍️ Hobbies include tennis, rock climbing, and some gaming
+ ✍️ Hobbies include tennis, swimming, rock climbing, and some gaming
 
  </div>
  
