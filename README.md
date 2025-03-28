@@ -14,7 +14,7 @@
  
  💼 I’m currently learning **Next.js, React.js**
 
- ✍️ Hobbies include tennis, swimming, rock climbing, and some gaming
+ ✍️ Hobbies include bouldering, traveling, eating, and gaming
 
  </div>
  
